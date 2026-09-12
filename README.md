@@ -16,3 +16,10 @@ Week 5 moved the project from planning into practical analysis. Calculated and i
 Key finding: booking lead time and prior no-show history are the strongest predictors of no-shows in the dataset.
 
 See [Week-5-healthconnect-analysis](./Week-5-healthconnect-analysis) for the full report.
+
+
+## Week 6 — HealthConnect Advanced Analytics & Decision Support
+
+Validated the two strongest Week 5 findings (booking lead time and prior no-show history) using statistical significance testing, and found they compound: patients with both risk factors have a 58.3% no-show rate vs 18.4% for the lowest-risk group. Built and validated a composite risk score, and produced a structured handoff file for the Data Science track as this week's required cross-track integration.
+
+See [Week-6-healthconnect-analysis](./Week-6-healthconnect-analysis) for the full report and handoff file.
