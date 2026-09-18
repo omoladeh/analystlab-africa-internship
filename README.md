@@ -23,3 +23,10 @@ See [Week-5-healthconnect-analysis](./Week-5-healthconnect-analysis) for the ful
 Validated the two strongest Week 5 findings (booking lead time and prior no-show history) using statistical significance testing, and found they compound: patients with both risk factors have a 58.3% no-show rate vs 18.4% for the lowest-risk group. Built and validated a composite risk score, and produced a structured handoff file for the Data Science track as this week's required cross-track integration.
 
 See [Week-6-healthconnect-analysis](./Week-6-healthconnect-analysis) for the full report and handoff file.
+
+## Week 7 — HealthConnect Analytics Testing & Refinement
+
+Re-validated Week 6's KPIs independently (all matched). Found the 0-5 composite risk score broke down in 4 of 13 patient subgroups due to small sample sizes, and refined it into a validated 3-tier Low/Medium/High band that held up across all 13. As this week's HC-POD cross-track testing activity, found and fixed a real bug in the Data Science handoff file (a missing-value labeling issue that silently reappeared on reload).
+
+See [Week-7-healthconnect-analysis](./Week-7-healthconnect-analysis) for the full report.
+
