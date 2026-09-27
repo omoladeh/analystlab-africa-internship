@@ -38,4 +38,4 @@ Final week of the HealthConnect Experience Lab. Deliverables:
 - Documented two HC-POD integration activities with Data Science: the corrected risk-score handoff file (v2), and a direct cross-track feature validation exchange
 - Identified a new compound-risk finding: patients with 2+ prior no-shows and 25.8km+ distance to clinic have an 80.0% no-show rate
 - Produced the Final Analytics & Decision Support Report, HC-POD integration record, presentation slide summary, and individual video script
-- Files: `HealthConnect_Week8_Final_Package_Omolade.docx`, `HealthConnect_RiskScore_Handoff_for_DataScience_v2.csv`
+- Files: `HealthConnect_Week8_Final_Package_Omolade.pdf`, `HealthConnect_RiskScore_Handoff_for_DataScience_v2.csv`
